@@ -1,0 +1,6 @@
+Links para aprofundar conhecimento: 
+
+https://www.w3schools.com/js/default.asp
+https://www.w3schools.com/css/default.asp
+https://www.w3schools.com/html/default.asp
+https://codepen.io/trending
